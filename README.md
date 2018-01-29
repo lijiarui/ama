@@ -32,3 +32,4 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+- [I like this guy!](https://blog.sindresorhus.com/answering-anything-678ce5623798)
