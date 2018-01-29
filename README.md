@@ -20,7 +20,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 | Property      | value |
 |---------------|-------|
-| Email         | [ruiruibupt@gmail.com](mailto://ruiruibupt@gmail.com) |
+| Email         | [ruiruibupt@gmail.com](mailto:ruiruibupt@gmail.com) |
 | Github        | [@lijiarui](https://github.com/lijiarui) |
 | Blog          | [blog.botorange.com](http://blog.botorange.com) |
 | wechat        | [ruirui0914](http://blog.botorange.com) |
